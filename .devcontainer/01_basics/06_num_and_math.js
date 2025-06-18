@@ -12,7 +12,7 @@ console.log(othernumber.toPrecision(4));
 const hundreds = 1000000000
 console.log(hundreds.toLocaleString('en-IN'));
 
-//*******************Math*************************
+//*******************Math**************************
 console.log(Math);
 console.log(Math.round(4.3))
 console.log(Math.max(1, 2, 5, 9, 6 , 7))
